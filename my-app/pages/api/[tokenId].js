@@ -1,7 +1,7 @@
 // Next.js API route support: https://nextjs.org/docs/api-routes/introduction
 
 // Base URI + TokenID
-// Base URI = https://example.com/
+// Base URI = https://nft-collection-tutorial.vercel.app/api/
 // Token ID = 1
 
 // tokenURI(1) => https://example.com/1
